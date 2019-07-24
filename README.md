@@ -40,6 +40,14 @@ As a result of this function, you get the neural network prediction regarding th
 
 ![result](https://github.com//AnneVR/T-systems_Internship/raw/master/result.png)
  
+Using the following commands in the code you can get the result of neural network prediction for all images in directory:
+```python
+  from ControlsNN import predict
+  
+  predict.predict_images("D:/1/")
+ ```
+As a result of this function, you get the neural network prediction regarding images.
+
 ## Continue training
 
 This library provides continue training for the model using the continue_training function:
