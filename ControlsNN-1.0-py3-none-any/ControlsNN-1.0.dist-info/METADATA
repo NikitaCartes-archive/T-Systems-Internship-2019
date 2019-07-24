@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: ControlsNN
+Version: 1.0
+Summary: ControlsNN is a library containing a neural network that is capable of identifying various controls
+Home-page: UNKNOWN
+Author: Ekaterina Zabrodina, Anna Dudina, Nikita Chikin, Ilya Malov, Martin Baldus
+Author-email: UNKNOWN
+License: MIT
+Platform: UNKNOWN
+Requires-Dist: opencv-python
+Requires-Dist: keras
+Requires-Dist: tensorflow (<2.0.0)
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: imutils
+
+UNKNOWN
+
+
