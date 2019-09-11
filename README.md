@@ -18,7 +18,7 @@ To use ControlsNN, you will need Python >= 3.3 and some additional libraries:
  
 Also need to `pip install` the wheel file:
 ```
-$ pip install /path/to/ControlsNN-1.0-py3-none-any.whl
+$ pip install /path/to/ControlsNN-1.2-py3-none-any.whl
 ```
 You can verify that ControlsNN has been successfully installed and start working with it.
  
